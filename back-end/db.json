@@ -47,6 +47,48 @@
       "value": 180.4031458,
       "dateTime": "2020-10-31T08:53:38.000-07:00",
       "isIrregular": false
+    },
+    {
+      "value": 190,
+      "dateTime": "2021-03-04T23:09:38.585Z",
+      "isIrregular": false,
+      "id": 8099904
+    },
+    {
+      "value": 180,
+      "dateTime": "2021-03-04T23:10:07.217Z",
+      "isIrregular": false,
+      "id": 8099905
+    },
+    {
+      "value": 194,
+      "dateTime": "2021-03-04T23:36:37.805Z",
+      "isIrregular": false,
+      "id": 8099906
+    },
+    {
+      "value": 150,
+      "dateTime": "2021-03-04T23:42:33.330Z",
+      "isIrregular": false,
+      "id": 8099907
+    },
+    {
+      "value": 160,
+      "dateTime": "2021-03-04T23:43:53.445Z",
+      "isIrregular": false,
+      "id": 8099908
+    },
+    {
+      "value": 89,
+      "dateTime": "2021-03-04T23:44:14.484Z",
+      "isIrregular": true,
+      "id": 8099909
+    },
+    {
+      "value": 145,
+      "dateTime": "2021-03-04T23:44:46.691Z",
+      "isIrregular": false,
+      "id": 8099910
     }
   ]
 }
